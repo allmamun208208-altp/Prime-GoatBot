@@ -5,7 +5,7 @@ module.exports = {
     name: "uptime",
     aliases: ["up", "upt", "run", "system"],
     version: "5.2",
-    author: "Alamin | Enhanced by ChatGPT",
+    author: "Alamin",
     role: 0,
     shortDescription: "Show bot uptime with full system stats",
     longDescription: "Displays bot uptime, system info, CPU, RAM, platform, users & threads with animation.",
